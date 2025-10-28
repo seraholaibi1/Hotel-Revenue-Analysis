@@ -4,11 +4,11 @@ It contains working example of a data from two hotels, City hotel and Resort hot
 
 ### Project Overview
 
-This data analysis project aim to provide insights into the revenue of City and Resort hotels.
+This data analysis project aim to provide insights into the data of City and Resort hotels.
 
 ### Data Sources
 
-The primary dataset used for this analysis is the"Employee sample data.csv" file, containing details about each hotels of the Company.
+The primary dataset used for this analysis are downloaded from https://absentdata.com/data-analysis/where-to-find-data/ and chaged to csv files attached to this portfolio.
 
 ### Tools
 
@@ -17,11 +17,15 @@ The primary dataset used for this analysis is the"Employee sample data.csv" file
 3. Power Bi  _ Creating Reports
 
 ### Data Cleaning and Preparation
-In the initial data preparation phase, we performed the following tasks;
+We performed the following tasks in sql
+1. Write queries inorder to joi tables.
+   Using Power Bi
 1. Changing data types
 2. Creating new columns
 3. Use of Dax and arriving at new measures.
 4. Write queries
+5. Visualize
+   
 
  ### Exploratory Data Analysis
  EDA involved exploring the Hotels data to answer key questions such as;
@@ -39,16 +43,11 @@ The Analysis results are summarized as follows
    a.There is an Increase between 2018 and 2019 and a fall in 2020.
    b. Resort hotel has a slight increase in City hotel revenue with just a 7.16% margin.
    c. The pecentage of parking space doesn't have much differences over the years so the packing space can be maintained.
-   d.
+   
 
-
-### Recommendations
- __ The data shows the high segregation displayed in the Company. Hence it shows the disparity entertained by stakeholders. emphasis should be placed more on Values and not Reace/Ethnicity.
-
-
- ### Limitations
  
  ### References
+ https://absentdata.com/data-analysis/where-to-find-data/
  
 
 
